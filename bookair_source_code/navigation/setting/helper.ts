@@ -1,0 +1,17 @@
+export const SettingsHomeScreen = "Settings";
+export const PreferencesScreen = "Preferences";
+export const NotificationScreen = "Notification";
+export const HistoryScreen = "Trips History";
+export const HelpScreen = "Get Help";
+export const FeedbackScreen = "Send Feedback";
+export const PaymentScreen = "Payment Method";
+export const AboutScreen = "About";
+export const LegalScreen = "Legal";
+export const SignInScreen = "Sign In";
+export const SocialContactsScreen = "Social Contacts";
+export const HomeAirport = "Home Airport";
+export const Currency = "Currency";
+export const AutoFill = "Autofill";
+export const SignUpScreen = "Sign Up";
+export const TermsScreen = "Terms & Conditions";
+export const PrivacyPolicyScreen = "Privacy Policy";
